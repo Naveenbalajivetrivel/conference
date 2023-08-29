@@ -1,0 +1,88 @@
+/*
+.top-div {
+	background-image: linear-gradient(
+		to right,
+		#da4453,
+		#ca355c,
+		#b72a63,
+		#a12468,
+		#89216b
+	) !important;
+	color: white !important;
+}
+*/
+
+/* Bootstrap error fix */
+html,
+body {
+	overflow-x: hidden;
+}
+.news{
+	padding-left: 100px;
+}
+.top-div {
+	background-image: linear-gradient(
+		to right,
+		#607aee,
+		#4957cf,
+		#4047a5,
+		#203089,
+		#14175d
+	) !important;
+	color: white !important;
+}
+
+.nav-link {
+	color: white !important;
+}
+
+.springer-logo {
+	background-color: white;
+	padding: 1%;
+	margin: 10%;
+	margin-left: 0%;
+	text-align: center;
+	justify-content: center;
+}
+
+.rmkec_logo {
+	background-color: white;
+	padding: 0%;
+	margin: 1%;
+}
+
+.icisc_logo {
+	width: 70px;
+	background-color: #fffa;
+	border-radius: 5px;
+}
+
+.home-title {
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 170%;
+}
+
+.my-light-background {
+	background-color: #fffc;
+	color: black;
+	font-size: large;
+}
+
+.head {
+	color: #353eb1;
+	font-weight: bold;
+}
+
+.my-color {
+	color: #353eb1;
+}
+
+.my-border-radius {
+	border-radius: 5px;
+}
+
+.my-heading {
+	text-transform: uppercase;
+}
