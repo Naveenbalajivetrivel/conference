@@ -12,7 +12,7 @@
 }
 */
 
-/* Bootstrap error fix */
+/* Bootstrap error fix #eeffba, #d6fa8c, #beed53, #a5d721, #82b300 #5d8700*/
 html,
 body {
 	overflow-x: hidden;
@@ -23,11 +23,11 @@ body {
 .top-div {
 	background-image: linear-gradient(
 		to right,
-		#607aee,
-		#4957cf,
-		#4047a5,
-		#203089,
-		#14175d
+		#d6fa8c,
+		#beed53,
+		#a5d721,
+		#82b300,
+		#5d8700
 	) !important;
 	color: white !important;
 }
@@ -76,7 +76,7 @@ body {
 }
 
 .my-color {
-	color: #353eb1;
+	color: #82b300;
 }
 
 .my-border-radius {
