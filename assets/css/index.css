@@ -32,7 +32,8 @@ body {
 }
 
 .nav-link {
-	color: white !important;
+	color: blue !important;
+	font-size: x-large;
 }
 
 .springer-logo {
@@ -58,7 +59,6 @@ body {
 
 .home-title {
 	text-align: center;
-	text-transform: capitalize;
 	font-weight: bold;
 	font-size: 170%;
 }
@@ -66,18 +66,25 @@ body {
 .my-light-background {
 	background-color: #fffc;
 	color: black;
-	font-size: large;
+	font-size: xx-large;
 }
 
 .head {
 	color: #353eb1;
 	font-weight: bold;
+	font-size: xx-large;
+}
+
+.font{
+font-size: large;
 }
 
 .my-color {
 	color: #82b300;
 }
-
+.color{
+	color: #353eb1;
+}
 .my-border-radius {
 	border-radius: 5px;
 }
@@ -93,7 +100,6 @@ body {
 	color: rgb(39, 39, 39) !important;
 }
 
-
 .carousel-control-next-icon {
     background-color: black;
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
@@ -106,3 +112,9 @@ body {
 	width: 25px;
     border-radius: 10px;
 }
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.blink {
+	color: #353eb1;
+  }
